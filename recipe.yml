@@ -1,0 +1,10 @@
+name: Varbase Development Base
+description: A recipe to manage default development modules and configurations. Development Environment Modules, make sure to disable them in production.
+type: Varbase Development
+install:
+  - dblog
+  - views_ui
+  - config_update_ui
+  - devel
+  - sdc_devel
+  - reroute_email

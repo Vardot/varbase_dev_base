@@ -1,0 +1,27 @@
+{
+  "name": "drupal/varbase_dev_base",
+  "description": "A recipe to manage default development modules and configurations. Development Environment Modules and Features, make sure to disable this feature in production.",
+  "keywords": ["recipe", "Varbase recipes", "varbase recipe", "Drupal recipes", "drupal recipe", "Development", "Devel", "Debug"],
+  "type": "drupal-recipe",
+  "notification-url": "https://packages.drupal.org/8/downloads",
+  "license": "GPL-2.0-or-later",
+  "authors": [
+    {
+      "name": "Vardot",
+      "homepage": "https://www.drupal.org/vardot",
+      "role": "Maintainer"
+    }
+  ],
+  "support": {
+    "issues": "https://www.drupal.org/project/issues/varbase_dev_base",
+    "source": "http://cgit.drupalcode.org/varbase_dev_base"
+  },
+  "require": {
+    "drupal/core": "~11.3.0",
+    "drupal/config_update": "~2",
+    "drupal/devel": "~5",
+    "drupal/sdc_devel": "~1",
+    "drupal/reroute_email": "~2.3.0"
+  },
+  "version": "1.0.x-dev"
+}
