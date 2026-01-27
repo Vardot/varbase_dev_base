@@ -7,4 +7,5 @@ install:
   - config_update_ui
   - devel
   - sdc_devel
+  - devel_entity_updates
   - reroute_email
