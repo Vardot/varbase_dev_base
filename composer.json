@@ -22,7 +22,8 @@
     "drupal/devel": "~5",
     "drupal/sdc_devel": "~1",
     "drupal/reroute_email": "~2.3.0",
-    "drupal/devel_entity_updates": "~5.0"
+    "drupal/devel_entity_updates": "~5.0",
+    "drupal/storybook": "~1.0"
   },
   "version": "1.0.x-dev"
 }
