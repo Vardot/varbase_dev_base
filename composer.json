@@ -19,6 +19,7 @@
   "require": {
     "drupal/core": "~11.3.0",
     "drupal/config_update": "~2",
+    "drupal/config_ignore": "~3",
     "drupal/devel": "~5",
     "drupal/sdc_devel": "~1",
     "drupal/reroute_email": "~2.3.0",
