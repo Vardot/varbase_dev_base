@@ -27,5 +27,5 @@
     "drupal/devel_entity_updates": "~5.0",
     "drupal/storybook": "~1.0"
   },
-  "version": "1.0.0-alpha1"
+  "version": "1.0.0-alpha2"
 }
