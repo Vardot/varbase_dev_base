@@ -17,7 +17,7 @@
     "source": "http://cgit.drupalcode.org/varbase_dev_base"
   },
   "require": {
-    "drupal/core": "~11.3.0",
+    "drupal/core": "~11.4.0",
     "drupal/config_update": "~2",
     "drupal/config_ignore": "~3",
     "drupal/devel": "~5",
