@@ -17,15 +17,15 @@
     "source": "http://cgit.drupalcode.org/varbase_dev_base"
   },
   "require": {
-    "drupal/core": "~11.4.0",
-    "drupal/config_update": "~2",
-    "drupal/config_ignore": "~3",
-    "drupal/devel": "~5",
-    "drupal/sdc_devel": "~1",
-    "drupal/stage_file_proxy": "~3.1.0",
-    "drupal/reroute_email": "~2.3.0",
-    "drupal/devel_entity_updates": "~5.0",
-    "drupal/storybook": "~1.0"
+    "drupal/core": "^11.4 || ^12.0",
+    "drupal/config_update": "^2.0",
+    "drupal/config_ignore": "^3.0",
+    "drupal/devel": "^5.0",
+    "drupal/sdc_devel": "^1.0",
+    "drupal/stage_file_proxy": "^3.1",
+    "drupal/reroute_email": "^2.3",
+    "drupal/devel_entity_updates": "^5.0",
+    "drupal/storybook": "^1.0"
   },
   "version": "1.0.x-dev"
 }
